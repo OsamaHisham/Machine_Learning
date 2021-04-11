@@ -30,3 +30,4 @@ y_pred = clf_2.predict(x_test)
 acc = metrics.accuracy_score(y_test, y_pred)
 
 print(acc)
+
